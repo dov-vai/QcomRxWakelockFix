@@ -1,0 +1,6 @@
+id=QcomRxWakelockFix
+name=QcomRxWakelockFix
+version=1.0
+versionCode=1
+author=dov-vai
+description=Magisk module for fixing qcom_rx_wakelock
